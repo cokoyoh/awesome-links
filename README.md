@@ -1,5 +1,5 @@
 ## Awesome Links Project
-Fullstack app with Next.js, GraphQL, TypeScript,Prisma and PostgreSQL. 
+Fullstack app where users can browse through a list of curated links and bookmark their favorite ones. 
 
 ## Core
 - Data modeling using Prisma
@@ -9,3 +9,6 @@ Fullstack app with Next.js, GraphQL, TypeScript,Prisma and PostgreSQL.
 - Authorization
 - Image upload using AWS S3
 - Deployment to Vercel
+
+## Built on 
+Next.js, GraphQL, TypeScript,Prisma and PostgreSQL
