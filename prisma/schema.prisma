@@ -24,3 +24,14 @@ enum Role {
   ADMIN
 }
 
+model Link {
+  id          String @id @default(uuid())
+  createdAr   DateTime @default(now())
+  updatedAt   DateTime @updatedAt
+  title       String
+  description String
+  url         String
+  imageUrl    String
+  category    String
+}
+
